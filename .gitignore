@@ -1,0 +1,62 @@
+# API 키와 설정 파일
+config.json
+
+# Python 관련 파일
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE 관련 파일
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 임시 파일
+*.tmp
+*.temp
+*.wav
+*.mp3
+
+# OS 관련 파일
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 로그 파일
+*.log
+
+# 테스트 관련
+.coverage
+htmlcov/
+.pytest_cache/
