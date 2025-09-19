@@ -1,6 +1,15 @@
 # API 키와 설정 파일
 config.json
+
+
+#claude관련
+.claude/
+.taskmaster/
+node_modules/
+scripts/
+.env.example
 .mcp.json
+
 # Python 관련 파일
 __pycache__/
 *.py[cod]
